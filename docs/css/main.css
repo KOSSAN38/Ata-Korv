@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://cdn.svenskalag.se/teamdata/images/14556/419009/korv_730.jpg?1);
+    background-size: 200px;
+    background-color: black;
+    color:black ;
+}
+
+main {
+
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    font-family: roboto condensed;
+    font-size: 15px;
+
+}
+nav { 
+    width: 20%;
+}
+.book {
+    width: 80%;
+    
+} 
